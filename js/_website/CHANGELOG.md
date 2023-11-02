@@ -1,5 +1,11 @@
 # website
 
+## 0.12.0
+
+### Features
+
+- [#6193](https://github.com/gradio-app/gradio/pull/6193) [`fdedc5949`](https://github.com/gradio-app/gradio/commit/fdedc59491bf55e3a24936e97da48bf0144de816) - 4.0 Website Changes.  Thanks [@aliabd](https://github.com/aliabd)!
+
 ## 0.11.1
 
 ### Features

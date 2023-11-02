@@ -1,5 +1,11 @@
 # @gradio/model3d
 
+## 0.4.0
+
+### Features
+
+- [#6240](https://github.com/gradio-app/gradio/pull/6240) [`dd901c1b0`](https://github.com/gradio-app/gradio/commit/dd901c1b0af73a78fca8b6875b2bb00f84071ac8) - Model3D panning, improved UX.  Thanks [@dylanebert](https://github.com/dylanebert)!
+
 ## 0.3.1
 
 ### Patch Changes

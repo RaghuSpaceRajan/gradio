@@ -1,5 +1,12 @@
 # @gradio/video
 
+## 0.1.2
+
+### Patch Changes
+
+- Updated dependencies [[`27194a987`](https://github.com/gradio-app/gradio/commit/27194a987fa7ba1234b5fc0ce8bf7fabef7033a9)]:
+  - @gradio/image@0.3.2
+
 ## 0.1.1
 
 ### Patch Changes
